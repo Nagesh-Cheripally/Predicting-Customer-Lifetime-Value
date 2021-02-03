@@ -21,7 +21,7 @@ The data contains ~10k customers .
 
 ## ML Models Performance table
 
-<img src="Models Performance.png">
+<img src="index.png">
 
 ## Results / Conclusion
 
