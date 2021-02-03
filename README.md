@@ -15,11 +15,11 @@ The data contains ~10k customers .
 
 <img src="Distribution and QQ plot.png">
 
-## Model Performance Visualization Chart
-
-<img src="Model Performance Chart.png">
-
 ## ML Models Performance table
+
+<img src="Models Performance.png">
+
+## Model Performance Visualization Chart
 
 <img src="index.png">
 
