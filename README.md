@@ -28,7 +28,7 @@ The data contains ~10k customers .
 ```
 1. The best Algorithm to use for this dataset is RandomForestRegressor
 2. Untuned model was able to explain 90.65% of variance on test set 
-3. Tuned model was able to explain 91.08% of varaince on test set which is increased by ~0.5
+3. Tuned model was able to explain 91.08% of varaince on test set [increased by ~0.5]
 4. Feature reduction was not able to add to better R2 score
 ```
 
